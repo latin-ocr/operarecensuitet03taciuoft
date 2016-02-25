@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operarecensuitet03taciuoft/operarecensuitet03taciuoft_0002.png"; bbox 0 0 2184 4030; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 872 1642 1314 1689">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 872 1642 1314 1689">
+     <span class='ocr_line' id='line_1_1' title="bbox 872 1642 1314 1689; baseline 0.014 -6"><span class='ocrx_word' id='word_1_1' title='bbox 872 1642 1314 1689; x_wconf 74' lang='grc' dir='ltr'>ΡΒΕΞΕΝΤΕΙ)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1059 1754 1113 1782">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1059 1754 1113 1782">
+     <span class='ocr_line' id='line_1_2' title="bbox 1059 1754 1113 1782; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1059 1754 1113 1782; x_wconf 83' lang='grc' dir='ltr'>ΤΟ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 334 1810 1842 1929">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 334 1810 1842 1929">
+     <span class='ocr_line' id='line_1_3' title="bbox 334 1810 1842 1929; baseline 0.02 -30"><span class='ocrx_word' id='word_1_3' title='bbox 334 1810 545 1904; x_wconf 82' lang='grc' dir='ltr'>ΤΗΕ</span> <span class='ocrx_word' id='word_1_4' title='bbox 593 1815 1164 1917; x_wconf 64' lang='grc' dir='ltr'>υΝινΕΗειΤγ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1209 1855 1327 1918; x_wconf 75' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_6' title='bbox 1369 1828 1842 1929; x_wconf 72' lang='lat' dir='ltr'>TORONTO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2184 4030">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2184 4030">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2184 4030; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2184 4030; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
